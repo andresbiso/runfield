@@ -1,16 +1,10 @@
-Runfield
-for Mozilla Web O' Wonder
--------------------------
+This is a fork of the amazing endless runner [Runfield](https://github.com/kig/runfield)!
 
-Run, run as fast as you can!
+Changes made
+-------------
+- In both version the difficulty level was decreased.
+- The mobile version was enhanced.
 
-runfield/ -- desktop 1024x512 version
-runfield-mobile/ -- Android-optimized 800x400 version
-
-
-Credits:
-  Ilmari Heikkinen - Code & Graphics - http://fhtr.org
-  Mauri Heikkinen - Music - http://myspace.com/karhumauri
-
-Inspired by Canabalt (what, I can just randomly generate levels?)
-and Odin Sphere (painted 2D graphics, eh?)
+Known Bugs
+-----------
+- If we keep playing the game, after each reset, a new instance of the looping music is created.
